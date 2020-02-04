@@ -49,7 +49,7 @@ if ($no == '6') {
 	include('tools/doujin.php');
 
 } else {
-	echo "\nInput yang anda masukan tidak ada\n";
+	echo "\nLu Buriq\n";
 }
 
 ?>
